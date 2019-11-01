@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://999hang.github.io</id>
     <title>久酒陈年老酒行</title>
-    <updated>2019-11-01T05:26:10.424Z</updated>
+    <updated>2019-11-01T05:34:58.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://999hang.github.io"/>
     <link rel="self" href="https://999hang.github.io/atom.xml"/>
@@ -11,20 +11,11 @@
     <icon>https://999hang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 久酒陈年老酒行</rights>
     <entry>
-        <title type="html"><![CDATA[测试]]></title>
-        <id>https://999hang.github.io/post/ce-shi</id>
-        <link href="https://999hang.github.io/post/ce-shi">
+        <title type="html"><![CDATA[我是标题]]></title>
+        <id>https://999hang.github.io/post/开始始用</id>
+        <link href="https://999hang.github.io/post/开始始用">
         </link>
-        <updated>2019-11-01T05:07:01.000Z</updated>
-        <content type="html"><![CDATA[<p>试试吧</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://999hang.github.io/post/hello-gridea</id>
-        <link href="https://999hang.github.io/post/hello-gridea">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
+        <updated>2019-11-01T05:34:05.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
@@ -52,12 +43,22 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://999hang.github.io/post/ce-shi</id>
+        <link href="https://999hang.github.io/post/ce-shi">
+        </link>
+        <updated>2019-11-01T05:07:01.000Z</updated>
+        <content type="html"><![CDATA[<p>试试吧</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[记忆中的这瓶酒——【53优之1】德山大曲]]></title>
         <id>https://999hang.github.io/post/deshandaqu</id>
         <link href="https://999hang.github.io/post/deshandaqu">
         </link>
         <updated>2018-11-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>从1952年开始到1989年，我国共进行了五次全国性的白酒评选会。一共评选出了17大名酒（简称“17大”）和53种优质白酒（简称“53优”），17名酒是为获得金质奖章的酒，53优是获得银制奖章的酒。关于17大名酒，介绍的文章很翔实，但53优鲜少，随着时代发展其中很多酒都渐趋没落，销声匿迹。对于很多酒客来说，再见53优已经是一件活久见的事。</p>
+        <content type="html"><![CDATA[<!-- more -->
+<p>从1952年开始到1989年，我国共进行了五次全国性的白酒评选会。一共评选出了17大名酒（简称“17大”）和53种优质白酒（简称“53优”），17名酒是为获得金质奖章的酒，53优是获得银制奖章的酒。关于17大名酒，介绍的文章很翔实，但53优鲜少，随着时代发展其中很多酒都渐趋没落，销声匿迹。对于很多酒客来说，再见53优已经是一件活久见的事。</p>
 <figure data-type="image" tabindex="1"><img src="https://999hang.github.io/post-images/1572585777862.jpg" alt=""></figure>
 <p>筹备了许久，淘最美酒体验馆终于集齐53优，并正式展出。根据评选的历史脉络，分篇讲述53种优质酒，对53优再认识。<br>
 翻开历史的卷轴，本期带你走进德山大曲的世界。<br>
